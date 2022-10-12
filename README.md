@@ -1,1 +1,1 @@
-# terraform-session-october
+# This Repository includes Terraform codes from October Session
