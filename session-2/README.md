@@ -1,6 +1,8 @@
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.png" width="200" height="100">
 
+**Welcome to Terraform!!**
 
-This folder includes the fundementals in Terraform and a simple Terraform code to create EC2 instance.
+This folder includes the fundementals in Terraform and a simple Terraform code to create an EC2 instance.
 
 # Providers
 
@@ -24,9 +26,11 @@ Choose your instance from EC2 console --> Actions --> Security --> Modify IAM Ro
 
 ## Terraform Init
 
-After adding the providers.tf file, run ```terraform init``` command to initialize the working directory.
+After adding the providers.tf file, run ```terraform init``` command to initialize the working directory.![image](https://user-images.githubusercontent.com/106627195/195887916-64387ca8-f859-46eb-80f8-16bc71243d15.png)
+
 - Everytime after you add or modify the configuration file in your working directory, you must run ```terraform init```
 - You can run this command as much as you want because it’s idempotent.
+![image](https://user-images.githubusercontent.com/106627195/195887585-feec6128-5ccf-45e1-93e6-0d3ca9647b5f.png)
 
 After initialization, you will be able to perform other commands, like ```terraform plan``` and ```terraform apply```.
 
