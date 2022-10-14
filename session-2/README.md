@@ -1,3 +1,5 @@
+
+
 This folder includes the fundementals in Terraform and a simple Terraform code to create EC2 instance.
 
 # Providers
