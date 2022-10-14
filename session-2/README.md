@@ -33,7 +33,7 @@ After adding the providers.tf file, run ```terraform init``` command to initiali
 
 After initialization, you will be able to perform other commands, like ```terraform plan``` and ```terraform apply```.
 
-If you try to run a command that relies on initialization without first initializing, the command will fail with an error and explain that you need to run init.
+If you try to run a command that relies on initialization without first initializing, the command will fail with an error and explain that you need to run init. ***So do not forget to run ```terraform init``` after every single creation or modification of your configuration files***
 
 ## Terraform Version Constraint
 
@@ -52,6 +52,8 @@ Use [ec2.tf](https://github.com/snurer/terraform-session-october/blob/main/sessi
 To apply your changes, simply use:
 
 ```terraform apply``` 
+
+
 
 ## Contribution
 
