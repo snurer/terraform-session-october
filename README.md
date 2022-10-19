@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/Saintmori/terraform/main/terraform.png" width="200" height="200">
+
 # Terraform
 
 This Repository includes Terraform codes from October Session.
