@@ -1,4 +1,4 @@
-## This Folder has required Terraform Codes for the following tasks:
+This Folder has required Terraform Codes for the following tasks:
 
 ```
 Create VPC with the CIDR block 10.0.0.0/16 in us-east-1.
