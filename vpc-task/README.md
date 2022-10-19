@@ -1,5 +1,6 @@
 
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.png" width="200" height="100">
+<img src="https://raw.githubusercontent.com/Saintmori/terraform/main/terraform.png" width="200" height="200">
+
 
 This Folder has required Terraform Codes for the following tasks:
 
